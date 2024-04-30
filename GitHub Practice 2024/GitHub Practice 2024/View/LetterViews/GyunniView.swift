@@ -18,7 +18,7 @@ struct GyunniView: LetterView {
                 Image(systemName: "heart")
                     .resizable()
                     .foregroundStyle(.cyan)
-                    .frame(height: 300)
+                    .frame(height: 250)
                 
                 Text("MC2를 맞이한 나의 다짐")
                     .bold()
