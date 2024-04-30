@@ -10,5 +10,6 @@ import Foundation
 let letters: [any LetterView] = [
     GyunniView(),
     KayaView(),
-    OnveView()
+    OnveView(),
+    LiverView()
 ]
