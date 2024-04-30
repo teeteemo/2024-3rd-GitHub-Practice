@@ -8,5 +8,6 @@
 import Foundation
 
 let letters: [any LetterView] = [
-    GyunniView()
+    GyunniView(),
+    KayaView()
 ]
