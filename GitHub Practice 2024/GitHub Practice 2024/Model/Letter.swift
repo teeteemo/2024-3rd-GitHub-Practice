@@ -11,5 +11,6 @@ let letters: [any LetterView] = [
     GyunniView(),
     KayaView(),
     OnveView(),
+    AceView(),
     LiverView()
 ]
