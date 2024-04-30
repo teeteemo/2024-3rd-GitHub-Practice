@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct KayaView: LetterView {
-    var name: String = "Gyunni"
+    var name: String = "Kaya"
     var body: some View {
         Text("카야의 목표")
         Text("행복해지자")
