@@ -13,8 +13,4 @@ let letters: [any LetterView] = [
     OnveView(),
     AceView(),
     LiverView(),
-    YeniView(),
-    AustinView(),
-    LeeoView(),
-    YoungView()
 ]
