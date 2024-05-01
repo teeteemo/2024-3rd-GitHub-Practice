@@ -13,6 +13,7 @@ let letters: [any LetterView] = [
     OnveView(),
     AceView(),
     LiverView(),
-    YeniView()
-    AustinView()
+    YeniView(),
+    AustinView(),
+    YoungView()
 ]
