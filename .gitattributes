@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.pbxproj binary merge=union
+=======
+*.pbxproj binary merge=union
+>>>>>>> 456b6c567cee23217f81bdd4240e08da60b651aa
