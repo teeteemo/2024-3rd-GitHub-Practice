@@ -13,6 +13,7 @@
 		13F1495B2BE0BA6B00C0982E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */; };
 		13F149642BE0BAB100C0982E /* GyunniView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149632BE0BAB100C0982E /* GyunniView.swift */; };
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
+		17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CB8B4C2BE3555C006E9496 /* NamudiView.swift */; };
 		551C8E202BE0C30500061F28 /* AceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551C8E1F2BE0C30500061F28 /* AceView.swift */; };
 		C69844292BE0C2050004629D /* OnveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69844282BE0C2050004629D /* OnveView.swift */; };
 		C698442B2BE0C8E60004629D /* LiverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698442A2BE0C8E60004629D /* LiverView.swift */; };
@@ -27,6 +28,7 @@
 		13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		13F149632BE0BAB100C0982E /* GyunniView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GyunniView.swift; sourceTree = "<group>"; };
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		17CB8B4C2BE3555C006E9496 /* NamudiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamudiView.swift; sourceTree = "<group>"; };
 		551C8E1F2BE0C30500061F28 /* AceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AceView.swift; sourceTree = "<group>"; };
 		C69844282BE0C2050004629D /* OnveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnveView.swift; sourceTree = "<group>"; };
 		C698442A2BE0C8E60004629D /* LiverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiverView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				551C8E1F2BE0C30500061F28 /* AceView.swift */,
 				C69844282BE0C2050004629D /* OnveView.swift */,
 				C698442A2BE0C8E60004629D /* LiverView.swift */,
+				17CB8B4C2BE3555C006E9496 /* NamudiView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				13F149642BE0BAB100C0982E /* GyunniView.swift in Sources */,
 				551C8E202BE0C30500061F28 /* AceView.swift in Sources */,
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
+				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
 				DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */,
 				13F149672BE0BAD100C0982E /* Letter.swift in Sources */,
@@ -320,7 +324,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GitHub Practice 2024/Preview Content\"";
-				DEVELOPMENT_TEAM = 7V4779Q2XR;
+				DEVELOPMENT_TEAM = 47PZ53ZAF2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -349,7 +353,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GitHub Practice 2024/Preview Content\"";
-				DEVELOPMENT_TEAM = 7V4779Q2XR;
+				DEVELOPMENT_TEAM = 47PZ53ZAF2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
