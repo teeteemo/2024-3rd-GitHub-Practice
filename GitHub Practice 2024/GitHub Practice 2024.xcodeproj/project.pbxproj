@@ -14,6 +14,7 @@
 		13F149642BE0BAB100C0982E /* GyunniView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149632BE0BAB100C0982E /* GyunniView.swift */; };
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
 		551C8E202BE0C30500061F28 /* AceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551C8E1F2BE0C30500061F28 /* AceView.swift */; };
+		8D13C5BA2BE2A1B40063DFDD /* SnooqView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D13C5B92BE2A1B40063DFDD /* SnooqView.swift */; };
 		C69844292BE0C2050004629D /* OnveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69844282BE0C2050004629D /* OnveView.swift */; };
 		C698442B2BE0C8E60004629D /* LiverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698442A2BE0C8E60004629D /* LiverView.swift */; };
 		DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */; };
@@ -28,6 +29,7 @@
 		13F149632BE0BAB100C0982E /* GyunniView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GyunniView.swift; sourceTree = "<group>"; };
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
 		551C8E1F2BE0C30500061F28 /* AceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AceView.swift; sourceTree = "<group>"; };
+		8D13C5B92BE2A1B40063DFDD /* SnooqView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnooqView.swift; sourceTree = "<group>"; };
 		C69844282BE0C2050004629D /* OnveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnveView.swift; sourceTree = "<group>"; };
 		C698442A2BE0C8E60004629D /* LiverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiverView.swift; sourceTree = "<group>"; };
 		DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KayaView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				551C8E1F2BE0C30500061F28 /* AceView.swift */,
 				C69844282BE0C2050004629D /* OnveView.swift */,
 				C698442A2BE0C8E60004629D /* LiverView.swift */,
+				8D13C5B92BE2A1B40063DFDD /* SnooqView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			files = (
 				13F149562BE0BA6900C0982E /* ContentView.swift in Sources */,
 				C698442B2BE0C8E60004629D /* LiverView.swift in Sources */,
+				8D13C5BA2BE2A1B40063DFDD /* SnooqView.swift in Sources */,
 				13F149642BE0BAB100C0982E /* GyunniView.swift in Sources */,
 				551C8E202BE0C30500061F28 /* AceView.swift in Sources */,
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
