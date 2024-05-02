@@ -13,4 +13,5 @@ let letters: [any LetterView] = [
     OnveView(),
     AceView(),
     LiverView(),
+    SnooqView()
 ]
