@@ -15,4 +15,5 @@ let letters: [any LetterView] = [
     LiverView(),
     NamudiView(),
     SnooqView()
+    NowView()
 ]
