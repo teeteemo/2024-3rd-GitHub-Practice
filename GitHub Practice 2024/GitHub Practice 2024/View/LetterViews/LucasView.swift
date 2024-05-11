@@ -14,9 +14,6 @@ struct LucasView: LetterView {
             Text("Lucas의 목표")
                 .font(.largeTitle)
                 .bold()
-            Image("students")
-                .resizable()
-                .aspectRatio(contentMode: .fit)
             Text("1. 도움을 주는 사람이 되자!\n2.세상을 변화시키는 사람이 되자!")
                 .font(.title2)
         }
