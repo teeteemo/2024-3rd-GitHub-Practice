@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		079B56842BF1A763004E4979 /* HazelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B56832BF1A763004E4979 /* HazelView.swift */; };
 		13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */; };
 		13F149562BE0BA6900C0982E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149552BE0BA6900C0982E /* ContentView.swift */; };
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		079B56832BF1A763004E4979 /* HazelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HazelView.swift; sourceTree = "<group>"; };
 		13F149502BE0BA6900C0982E /* GitHub Practice 2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Practice 2024.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_Practice_2024App.swift; sourceTree = "<group>"; };
 		13F149552BE0BA6900C0982E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				1B8D80E92BE3538F00ED94A3 /* NowView.swift */,
 				9D480E092BEF5B3A007B0E21 /* LucasView.swift */,
 				516DD4D12BF101270032D1CC /* IOView.swift */,
+				079B56832BF1A763004E4979 /* HazelView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				13F149642BE0BAB100C0982E /* GyunniView.swift in Sources */,
 				551C8E202BE0C30500061F28 /* AceView.swift in Sources */,
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
+				079B56842BF1A763004E4979 /* HazelView.swift in Sources */,
 				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
 				516DD4D22BF101270032D1CC /* IOView.swift in Sources */,
@@ -356,7 +360,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -386,7 +390,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
