@@ -23,6 +23,7 @@
 		9D480E0A2BEF5B3A007B0E21 /* LucasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D480E092BEF5B3A007B0E21 /* LucasView.swift */; };
 		C69844292BE0C2050004629D /* OnveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69844282BE0C2050004629D /* OnveView.swift */; };
 		C698442B2BE0C8E60004629D /* LiverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698442A2BE0C8E60004629D /* LiverView.swift */; };
+		D3B383FE2BF1A766004618EE /* BellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3B383FD2BF1A766004618EE /* BellView.swift */; };
 		DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,7 @@
 		9D480E092BEF5B3A007B0E21 /* LucasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LucasView.swift; sourceTree = "<group>"; };
 		C69844282BE0C2050004629D /* OnveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnveView.swift; sourceTree = "<group>"; };
 		C698442A2BE0C8E60004629D /* LiverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiverView.swift; sourceTree = "<group>"; };
+		D3B383FD2BF1A766004618EE /* BellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BellView.swift; sourceTree = "<group>"; };
 		DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KayaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -118,6 +120,7 @@
 				1B8D80E92BE3538F00ED94A3 /* NowView.swift */,
 				9D480E092BEF5B3A007B0E21 /* LucasView.swift */,
 				516DD4D12BF101270032D1CC /* IOView.swift */,
+				D3B383FD2BF1A766004618EE /* BellView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				84203E602BE353CC0045F0CE /* EvieView.swift in Sources */,
 				13F149562BE0BA6900C0982E /* ContentView.swift in Sources */,
 				1B8D80EA2BE3538F00ED94A3 /* NowView.swift in Sources */,
+				D3B383FE2BF1A766004618EE /* BellView.swift in Sources */,
 				C698442B2BE0C8E60004629D /* LiverView.swift in Sources */,
 				576031432BF0F3A800EDC20E /* EddieView.swift in Sources */,
 				8D13C5BA2BE2A1B40063DFDD /* SnooqView.swift in Sources */,
@@ -356,7 +360,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -386,7 +390,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
