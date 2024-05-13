@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct GangView: View {
+struct GangView: LetterView {
     var name : String = "Gang"
     
     var body: some View {
