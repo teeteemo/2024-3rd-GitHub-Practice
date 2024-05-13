@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		079B56842BF1A763004E4979 /* HazelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B56832BF1A763004E4979 /* HazelView.swift */; };
 		139941F92BF1A73E0029ABB8 /* AustinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 139941F82BF1A73E0029ABB8 /* AustinView.swift */; };
 		13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */; };
 		13F149562BE0BA6900C0982E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149552BE0BA6900C0982E /* ContentView.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		079B56832BF1A763004E4979 /* HazelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HazelView.swift; sourceTree = "<group>"; };
 		139941F82BF1A73E0029ABB8 /* AustinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AustinView.swift; sourceTree = "<group>"; };
 		13F149502BE0BA6900C0982E /* GitHub Practice 2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Practice 2024.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_Practice_2024App.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				9D480E092BEF5B3A007B0E21 /* LucasView.swift */,
 				DB5223742BF1A79900DC4FCB /* SeanView.swift */,
 				516DD4D12BF101270032D1CC /* IOView.swift */,
+				079B56832BF1A763004E4979 /* HazelView.swift */,
 				29277C9F2BF1A78C00AC4836 /* DoryView.swift */,
 				139941F82BF1A73E0029ABB8 /* AustinView.swift */,
 			);
@@ -219,6 +222,7 @@
 				13F149642BE0BAB100C0982E /* GyunniView.swift in Sources */,
 				551C8E202BE0C30500061F28 /* AceView.swift in Sources */,
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
+				079B56842BF1A763004E4979 /* HazelView.swift in Sources */,
 				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
 				139941F92BF1A73E0029ABB8 /* AustinView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
