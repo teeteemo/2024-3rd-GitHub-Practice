@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		139941F92BF1A73E0029ABB8 /* AustinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 139941F82BF1A73E0029ABB8 /* AustinView.swift */; };
 		13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */; };
 		13F149562BE0BA6900C0982E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149552BE0BA6900C0982E /* ContentView.swift */; };
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
@@ -23,11 +24,13 @@
 		9D480E0A2BEF5B3A007B0E21 /* LucasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D480E092BEF5B3A007B0E21 /* LucasView.swift */; };
 		C69844292BE0C2050004629D /* OnveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69844282BE0C2050004629D /* OnveView.swift */; };
 		C698442B2BE0C8E60004629D /* LiverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698442A2BE0C8E60004629D /* LiverView.swift */; };
+		DB5223752BF1A79900DC4FCB /* SeanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB5223742BF1A79900DC4FCB /* SeanView.swift */; };
 		DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */; };
 		EE2CC6F12BF1A74800C4D242 /* NorangView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE2CC6F02BF1A74800C4D242 /* NorangView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		139941F82BF1A73E0029ABB8 /* AustinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AustinView.swift; sourceTree = "<group>"; };
 		13F149502BE0BA6900C0982E /* GitHub Practice 2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Practice 2024.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_Practice_2024App.swift; sourceTree = "<group>"; };
 		13F149552BE0BA6900C0982E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +48,7 @@
 		9D480E092BEF5B3A007B0E21 /* LucasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LucasView.swift; sourceTree = "<group>"; };
 		C69844282BE0C2050004629D /* OnveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnveView.swift; sourceTree = "<group>"; };
 		C698442A2BE0C8E60004629D /* LiverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiverView.swift; sourceTree = "<group>"; };
+		DB5223742BF1A79900DC4FCB /* SeanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeanView.swift; sourceTree = "<group>"; };
 		DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KayaView.swift; sourceTree = "<group>"; };
 		EE2CC6F02BF1A74800C4D242 /* NorangView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NorangView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -119,8 +123,10 @@
 				8D13C5B92BE2A1B40063DFDD /* SnooqView.swift */,
 				1B8D80E92BE3538F00ED94A3 /* NowView.swift */,
 				9D480E092BEF5B3A007B0E21 /* LucasView.swift */,
+				DB5223742BF1A79900DC4FCB /* SeanView.swift */,
 				516DD4D12BF101270032D1CC /* IOView.swift */,
 				EE2CC6F02BF1A74800C4D242 /* NorangView.swift */,
+				139941F82BF1A73E0029ABB8 /* AustinView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -213,8 +219,10 @@
 				551C8E202BE0C30500061F28 /* AceView.swift in Sources */,
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
 				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
+				139941F92BF1A73E0029ABB8 /* AustinView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
 				EE2CC6F12BF1A74800C4D242 /* NorangView.swift in Sources */,
+				DB5223752BF1A79900DC4FCB /* SeanView.swift in Sources */,
 				516DD4D22BF101270032D1CC /* IOView.swift in Sources */,
 				DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */,
 				9D480E0A2BEF5B3A007B0E21 /* LucasView.swift in Sources */,
@@ -277,7 +285,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -334,7 +342,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -352,7 +360,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GitHub Practice 2024/Preview Content\"";
-				DEVELOPMENT_TEAM = 47PZ53ZAF2;
+				DEVELOPMENT_TEAM = G7X65ZSJ3J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -360,7 +368,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -382,7 +390,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GitHub Practice 2024/Preview Content\"";
-				DEVELOPMENT_TEAM = 47PZ53ZAF2;
+				DEVELOPMENT_TEAM = G7X65ZSJ3J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -390,7 +398,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

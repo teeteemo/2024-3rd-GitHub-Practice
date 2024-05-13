@@ -20,5 +20,7 @@ let letters: [any LetterView] = [
     NowView(),
     LucasView(),
     NorangView(),
-    IOView()
+    IOView(),
+    SeanView(),
+    AustinView()
 ]
