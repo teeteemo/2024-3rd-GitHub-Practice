@@ -20,9 +20,10 @@ let letters: [any LetterView] = [
     NowView(),
     LucasView(),
     IOView(),
-    TinaView()
+    BellView(),
+    TinaView(),
     PiView(),
-    MartyView()
+    MartyView(),
     NorangView(),
     HazelView(),
     DoryView(),
