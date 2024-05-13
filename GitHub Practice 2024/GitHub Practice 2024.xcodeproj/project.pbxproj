@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		079B56842BF1A763004E4979 /* HazelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B56832BF1A763004E4979 /* HazelView.swift */; };
+		139941F92BF1A73E0029ABB8 /* AustinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 139941F82BF1A73E0029ABB8 /* AustinView.swift */; };
 		13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */; };
 		13F149562BE0BA6900C0982E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149552BE0BA6900C0982E /* ContentView.swift */; };
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
 		17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CB8B4C2BE3555C006E9496 /* NamudiView.swift */; };
 		1B8D80EA2BE3538F00ED94A3 /* NowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B8D80E92BE3538F00ED94A3 /* NowView.swift */; };
+		29277CA02BF1A78C00AC4836 /* DoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29277C9F2BF1A78C00AC4836 /* DoryView.swift */; };
 		516DD4D22BF101270032D1CC /* IOView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516DD4D12BF101270032D1CC /* IOView.swift */; };
 		551C8E202BE0C30500061F28 /* AceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551C8E1F2BE0C30500061F28 /* AceView.swift */; };
 		576031432BF0F3A800EDC20E /* EddieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576031422BF0F3A800EDC20E /* EddieView.swift */; };
@@ -24,11 +26,13 @@
 		9D480E0A2BEF5B3A007B0E21 /* LucasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D480E092BEF5B3A007B0E21 /* LucasView.swift */; };
 		C69844292BE0C2050004629D /* OnveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69844282BE0C2050004629D /* OnveView.swift */; };
 		C698442B2BE0C8E60004629D /* LiverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698442A2BE0C8E60004629D /* LiverView.swift */; };
+		DB5223752BF1A79900DC4FCB /* SeanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB5223742BF1A79900DC4FCB /* SeanView.swift */; };
 		DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		079B56832BF1A763004E4979 /* HazelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HazelView.swift; sourceTree = "<group>"; };
+		139941F82BF1A73E0029ABB8 /* AustinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AustinView.swift; sourceTree = "<group>"; };
 		13F149502BE0BA6900C0982E /* GitHub Practice 2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Practice 2024.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_Practice_2024App.swift; sourceTree = "<group>"; };
 		13F149552BE0BA6900C0982E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -38,6 +42,7 @@
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
 		17CB8B4C2BE3555C006E9496 /* NamudiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamudiView.swift; sourceTree = "<group>"; };
 		1B8D80E92BE3538F00ED94A3 /* NowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowView.swift; sourceTree = "<group>"; };
+		29277C9F2BF1A78C00AC4836 /* DoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoryView.swift; sourceTree = "<group>"; };
 		516DD4D12BF101270032D1CC /* IOView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOView.swift; sourceTree = "<group>"; };
 		551C8E1F2BE0C30500061F28 /* AceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AceView.swift; sourceTree = "<group>"; };
 		576031422BF0F3A800EDC20E /* EddieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EddieView.swift; sourceTree = "<group>"; };
@@ -46,6 +51,7 @@
 		9D480E092BEF5B3A007B0E21 /* LucasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LucasView.swift; sourceTree = "<group>"; };
 		C69844282BE0C2050004629D /* OnveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnveView.swift; sourceTree = "<group>"; };
 		C698442A2BE0C8E60004629D /* LiverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiverView.swift; sourceTree = "<group>"; };
+		DB5223742BF1A79900DC4FCB /* SeanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeanView.swift; sourceTree = "<group>"; };
 		DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KayaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -119,8 +125,11 @@
 				8D13C5B92BE2A1B40063DFDD /* SnooqView.swift */,
 				1B8D80E92BE3538F00ED94A3 /* NowView.swift */,
 				9D480E092BEF5B3A007B0E21 /* LucasView.swift */,
+				DB5223742BF1A79900DC4FCB /* SeanView.swift */,
 				516DD4D12BF101270032D1CC /* IOView.swift */,
 				079B56832BF1A763004E4979 /* HazelView.swift */,
+				29277C9F2BF1A78C00AC4836 /* DoryView.swift */,
+				139941F82BF1A73E0029ABB8 /* AustinView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -205,6 +214,7 @@
 			files = (
 				84203E602BE353CC0045F0CE /* EvieView.swift in Sources */,
 				13F149562BE0BA6900C0982E /* ContentView.swift in Sources */,
+				29277CA02BF1A78C00AC4836 /* DoryView.swift in Sources */,
 				1B8D80EA2BE3538F00ED94A3 /* NowView.swift in Sources */,
 				C698442B2BE0C8E60004629D /* LiverView.swift in Sources */,
 				576031432BF0F3A800EDC20E /* EddieView.swift in Sources */,
@@ -214,7 +224,9 @@
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
 				079B56842BF1A763004E4979 /* HazelView.swift in Sources */,
 				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
+				139941F92BF1A73E0029ABB8 /* AustinView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
+				DB5223752BF1A79900DC4FCB /* SeanView.swift in Sources */,
 				516DD4D22BF101270032D1CC /* IOView.swift in Sources */,
 				DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */,
 				9D480E0A2BEF5B3A007B0E21 /* LucasView.swift in Sources */,
@@ -277,7 +289,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -334,7 +346,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -352,7 +364,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GitHub Practice 2024/Preview Content\"";
-				DEVELOPMENT_TEAM = 47PZ53ZAF2;
+				DEVELOPMENT_TEAM = G7X65ZSJ3J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -382,7 +394,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GitHub Practice 2024/Preview Content\"";
-				DEVELOPMENT_TEAM = 47PZ53ZAF2;
+				DEVELOPMENT_TEAM = G7X65ZSJ3J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
