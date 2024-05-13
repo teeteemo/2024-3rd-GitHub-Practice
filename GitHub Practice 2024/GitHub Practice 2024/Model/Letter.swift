@@ -19,9 +19,10 @@ let letters: [any LetterView] = [
     SnooqView(),
     NowView(),
     LucasView(),
+    IOView(),
+    PiView(),
     MartyView()
     NorangView(),
-    IOView(),
     HazelView(),
     DoryView(),
     SeanView(),
