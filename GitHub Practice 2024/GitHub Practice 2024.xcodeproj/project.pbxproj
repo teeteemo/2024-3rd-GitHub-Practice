@@ -15,6 +15,7 @@
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
 		17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CB8B4C2BE3555C006E9496 /* NamudiView.swift */; };
 		1B8D80EA2BE3538F00ED94A3 /* NowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B8D80E92BE3538F00ED94A3 /* NowView.swift */; };
+		3CAF2DF02BF1A747009D38DA /* JintoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAF2DEF2BF1A747009D38DA /* JintoView.swift */; };
 		516DD4D22BF101270032D1CC /* IOView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516DD4D12BF101270032D1CC /* IOView.swift */; };
 		551C8E202BE0C30500061F28 /* AceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551C8E1F2BE0C30500061F28 /* AceView.swift */; };
 		576031432BF0F3A800EDC20E /* EddieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576031422BF0F3A800EDC20E /* EddieView.swift */; };
@@ -36,6 +37,7 @@
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
 		17CB8B4C2BE3555C006E9496 /* NamudiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamudiView.swift; sourceTree = "<group>"; };
 		1B8D80E92BE3538F00ED94A3 /* NowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowView.swift; sourceTree = "<group>"; };
+		3CAF2DEF2BF1A747009D38DA /* JintoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JintoView.swift; sourceTree = "<group>"; };
 		516DD4D12BF101270032D1CC /* IOView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOView.swift; sourceTree = "<group>"; };
 		551C8E1F2BE0C30500061F28 /* AceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AceView.swift; sourceTree = "<group>"; };
 		576031422BF0F3A800EDC20E /* EddieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EddieView.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				1B8D80E92BE3538F00ED94A3 /* NowView.swift */,
 				9D480E092BEF5B3A007B0E21 /* LucasView.swift */,
 				516DD4D12BF101270032D1CC /* IOView.swift */,
+				3CAF2DEF2BF1A747009D38DA /* JintoView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				13F149642BE0BAB100C0982E /* GyunniView.swift in Sources */,
 				551C8E202BE0C30500061F28 /* AceView.swift in Sources */,
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
+				3CAF2DF02BF1A747009D38DA /* JintoView.swift in Sources */,
 				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
 				516DD4D22BF101270032D1CC /* IOView.swift in Sources */,
