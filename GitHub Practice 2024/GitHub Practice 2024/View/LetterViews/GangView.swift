@@ -14,6 +14,7 @@ struct GangView: View {
         VStack(){
             Text("MC2를 맞이한 나의 다짐")
             Text("MC2는 앱을 온전히 다 완성하고싶다.")
+            Text("수정")
         }
     }
 }
