@@ -21,4 +21,11 @@ let letters: [any LetterView] = [
     LucasView(),
     IOView(),
     TinaView()
+    PiView(),
+    MartyView()
+    NorangView(),
+    HazelView(),
+    DoryView(),
+    SeanView(),
+    AustinView()
 ]
