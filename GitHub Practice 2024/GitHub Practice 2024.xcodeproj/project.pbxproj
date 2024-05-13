@@ -34,6 +34,7 @@
 		D3B383FE2BF1A766004618EE /* BellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3B383FD2BF1A766004618EE /* BellView.swift */; };
 		DB5223752BF1A79900DC4FCB /* SeanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB5223742BF1A79900DC4FCB /* SeanView.swift */; };
 		DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */; };
+		F527A3AA2BF1A75100C7192D /* GhostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F527A3A92BF1A75100C7192D /* GhostView.swift */; };
 		EE2CC6F12BF1A74800C4D242 /* NorangView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE2CC6F02BF1A74800C4D242 /* NorangView.swift */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		D3B383FD2BF1A766004618EE /* BellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BellView.swift; sourceTree = "<group>"; };
 		DB5223742BF1A79900DC4FCB /* SeanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeanView.swift; sourceTree = "<group>"; };
 		DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KayaView.swift; sourceTree = "<group>"; };
+		F527A3A92BF1A75100C7192D /* GhostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GhostView.swift; sourceTree = "<group>"; };
 		EE2CC6F02BF1A74800C4D242 /* NorangView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NorangView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -143,6 +145,7 @@
 				9D480E092BEF5B3A007B0E21 /* LucasView.swift */,
 				DB5223742BF1A79900DC4FCB /* SeanView.swift */,
 				516DD4D12BF101270032D1CC /* IOView.swift */,
+				F527A3A92BF1A75100C7192D /* GhostView.swift */,
 				3CAF2DEF2BF1A747009D38DA /* JintoView.swift */,
 				6811A68D2BF1A7B900C54244 /* GangView.swift */,
 				8C1860942BF1A767005BF7A1 /* BlisseyView.swift */,
@@ -250,6 +253,7 @@
 				3CAF2DF02BF1A747009D38DA /* JintoView.swift in Sources */,
 				079B56842BF1A763004E4979 /* HazelView.swift in Sources */,
 				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
+				F527A3AA2BF1A75100C7192D /* GhostView.swift in Sources */,
 				139941F92BF1A73E0029ABB8 /* AustinView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
 				A99591E82BF1AA5800A041D7 /* PiView.swift in Sources */,
