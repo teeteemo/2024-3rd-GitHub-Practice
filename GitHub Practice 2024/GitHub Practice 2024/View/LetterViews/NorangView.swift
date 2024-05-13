@@ -7,9 +7,24 @@
 
 import SwiftUI
 
-struct NorangView: View {
+struct NorangView: LetterView {
+    var name: String = "Norang"
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ZStack {
+            RoundedRectangle(cornerRadius: 10)
+                .foregroundColor(.yellow)
+                .opacity(0.3)
+                
+            VStack {
+                Text("🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎")
+                Text("내 이름은 노랑, 3기 러너죠")
+                Text("MC2 ⛰️등산어플⛰️ 만들어서 넘 재밌다")
+                Text("✨매일매일 화이팅!✨")
+                Text("🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎")
+            }
+        }
+        .padding()
     }
 }
 

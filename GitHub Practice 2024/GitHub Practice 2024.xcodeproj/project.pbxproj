@@ -24,6 +24,7 @@
 		C69844292BE0C2050004629D /* OnveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69844282BE0C2050004629D /* OnveView.swift */; };
 		C698442B2BE0C8E60004629D /* LiverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698442A2BE0C8E60004629D /* LiverView.swift */; };
 		DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */; };
+		EE2CC6F12BF1A74800C4D242 /* NorangView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE2CC6F02BF1A74800C4D242 /* NorangView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		C69844282BE0C2050004629D /* OnveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnveView.swift; sourceTree = "<group>"; };
 		C698442A2BE0C8E60004629D /* LiverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiverView.swift; sourceTree = "<group>"; };
 		DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KayaView.swift; sourceTree = "<group>"; };
+		EE2CC6F02BF1A74800C4D242 /* NorangView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NorangView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				1B8D80E92BE3538F00ED94A3 /* NowView.swift */,
 				9D480E092BEF5B3A007B0E21 /* LucasView.swift */,
 				516DD4D12BF101270032D1CC /* IOView.swift */,
+				EE2CC6F02BF1A74800C4D242 /* NorangView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
 				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
+				EE2CC6F12BF1A74800C4D242 /* NorangView.swift in Sources */,
 				516DD4D22BF101270032D1CC /* IOView.swift in Sources */,
 				DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */,
 				9D480E0A2BEF5B3A007B0E21 /* LucasView.swift in Sources */,
